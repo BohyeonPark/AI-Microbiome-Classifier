@@ -1,3 +1,6 @@
+# AI Microbiome Classifier
+# author: 박보현
+
 import streamlit as st
 import numpy as np
 import tensorflow as tf
